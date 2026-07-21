@@ -1,2 +1,2 @@
 # Number-pad
-A Micropad with numbers and a knob.
+A Micropad with 1 through 0 and an oled.
