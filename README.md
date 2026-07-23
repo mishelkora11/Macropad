@@ -1,6 +1,7 @@
 Macropad:
 
 
+
 3D look of the assembled macropad:
 
 <img width="1137" height="732" alt="Screenshot 2026-07-23 165033" src="https://github.com/user-attachments/assets/a6909550-dc2f-4371-9b34-302b15457286" />
