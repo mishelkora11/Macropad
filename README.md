@@ -30,10 +30,15 @@ A custom handwired 10-key macropad running QMK firmware on a Seeed Studio XIAO R
 BOM:
 
 1x seeed studio rp2040
+
 4x  style switches
+
 1x 0.91 inch oled display
+
 4x M3x5x4 Heatset inserts
+
 1x Case 
+
 4x M3x16mm screws
 
 
