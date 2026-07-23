@@ -3,7 +3,7 @@ Macropad:
 
 Demo:
 
-https://streamable.com/4rilwd
+(https://jumpshare.com/share/4UBiSBgXcAm0eg4XNZHn)
 
 
 3D look of the assembled macropad:
