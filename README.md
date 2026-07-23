@@ -1,6 +1,10 @@
 Macropad:
 
 
+Demo:
+
+https://streamable.com/4rilwd
+
 
 3D look of the assembled macropad:
 
