@@ -13,7 +13,7 @@ Demo:
 
 3D look of the macropad wihtout the top attached. PCB view:
 
-<img width="907" height="612" alt="Screenshot 2026-07-23 165354" src="https://github.com/user-attachments/assets/a2702550-5b93-4258-bdfb-ad7fc8ffcab6" />
+<img width="916" height="477" alt="Screenshot 2026-08-12 225459" src="https://github.com/user-attachments/assets/0ed370be-ce32-498b-afbd-4689efc4c890" />
 
 
 Schematic:
@@ -29,6 +29,11 @@ PCB:
 PCB 3D view:
 
 <img width="632" height="652" alt="Screenshot 2026-08-12 225252" src="https://github.com/user-attachments/assets/f12d07fa-72ef-41d5-9d82-ae0b5675fe4a" />
+
+
+Case:
+
+<img width="907" height="561" alt="Screenshot 2026-08-12 225539" src="https://github.com/user-attachments/assets/5954524c-7b9c-457f-87da-8ed7827ff7f8" />
 
 
 Firmware:
