@@ -3,12 +3,12 @@ Macropad:
 
 Demo:
 
-(https://jumpshare.com/share/4UBiSBgXcAm0eg4XNZHn)
+(https://jumpshare.com/share/NGJ5itXQeFNpmC4G9I8h)
 
 
 3D look of the assembled macropad:
 
-<img width="1137" height="732" alt="Screenshot 2026-07-23 165033" src="https://github.com/user-attachments/assets/a6909550-dc2f-4371-9b34-302b15457286" />
+<img width="792" height="770" alt="Screenshot 2026-08-12 223731" src="https://github.com/user-attachments/assets/6ecfbdb5-64b0-421a-a129-6361efa21e2a" />
 
 
 3D look of the macropad wihtout the top attached. PCB view:
@@ -23,17 +23,12 @@ Schematic:
 
 PCB:
 
-<img width="742" height="780" alt="image" src="https://github.com/user-attachments/assets/dd5077d2-1577-4349-8335-c11e74045354" />
+<img width="666" height="817" alt="Screenshot 2026-08-12 223520" src="https://github.com/user-attachments/assets/5d68b357-7b19-4db2-b8cf-64e5a4098142" />
 
 
 PCB 3D view:
 
-<img width="665" height="747" alt="image" src="https://github.com/user-attachments/assets/34b283d7-e27d-46aa-ad21-35b8491a6f91" />
-
-
-Case:
-
-<img width="776" height="432" alt="Screenshot 2026-07-20 025003" src="https://github.com/user-attachments/assets/aedda8ca-82f8-419e-b9fb-c3319d62225d" />
+<img width="632" height="652" alt="Screenshot 2026-08-12 225252" src="https://github.com/user-attachments/assets/f12d07fa-72ef-41d5-9d82-ae0b5675fe4a" />
 
 
 Firmware:
